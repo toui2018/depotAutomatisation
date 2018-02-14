@@ -60,6 +60,7 @@ public class JpetTest {
 	
 	//Ajout commentaire 2 Master
 	
+	//toto
 	
 	@After
 	public void quit() {
