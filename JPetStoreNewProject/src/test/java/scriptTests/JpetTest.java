@@ -51,7 +51,12 @@ public class JpetTest {
 					
 	}
 	
+<<<<<<< HEAD
 	//Ajout commentaire Master
+=======
+	// Ajout commentaire maintenance 
+	
+>>>>>>> refs/heads/maintenance
 	
 	@After
 	public void quit() {
