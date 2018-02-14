@@ -56,6 +56,8 @@ public class JpetTest {
 
 	// Ajout commentaire maintenance 
 	
+	//Ajout commentaire maintenance2
+	
 	
 	@After
 	public void quit() {
