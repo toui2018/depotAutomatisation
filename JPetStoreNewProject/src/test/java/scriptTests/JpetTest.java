@@ -51,6 +51,8 @@ public class JpetTest {
 					
 	}
 	
+	//Ajout commentaire Master
+	
 	@After
 	public void quit() {
 		driver.close();
