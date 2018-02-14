@@ -51,7 +51,6 @@ public class JpetTest {
 					
 	}
 	
-	// tototrzzerzererzersefhuzdkfhqzeufzea
 	@After
 	public void quit() {
 		driver.close();
